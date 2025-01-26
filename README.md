@@ -1,38 +1,15 @@
-﻿# WeatherApp
+# 🚀 Installation
 
- Installation
-Clone the repository:
+Follow these steps to set up and run the project locally.
 
-bash
-Copy
-git clone (https://github.com/IsuruKaushika/WeatherApp.git)
-Navigate to the backend folder:
+## Prerequisites
 
-bash
-Copy
-cd backend
-Install backend dependencies:
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
+- [Git](https://git-scm.com/)
 
-bash
-Copy
-npm install
-Start the backend server:
+## Steps
 
-bash
-Copy
-npm start
-Navigate to the frontend folder:
-
-bash
-Copy
-cd ../frontend
-Install frontend dependencies:
-
-bash
-Copy
-npm install
-Start the frontend server:
-
-bash
-Copy
-npm start
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
