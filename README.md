@@ -1,21 +1,37 @@
-# 🚀 Installation
+# 🚀 Weather App
 
-Follow these steps to set up and run the project locally.
+## Installation
 
-## Steps
+Follow these steps to set up and run the project locally:
+
+### Steps
 
 1. **Clone the repository**:
-   https://github.com/IsuruKaushika/WeatherApp.git
-2.Installation
-   cd frontend
-   npm install
+   ```bash
+   git clone https://github.com/IsuruKaushika/WeatherApp.git
+   ```
 
-   cd backend
-   npm install
+2. **Install dependencies**:
+   - Navigate to the frontend directory and install the required packages:
+     ```bash
+     cd frontend
+     npm install
+     ```
+   - Navigate to the backend directory and install the required packages:
+     ```bash
+     cd backend
+     npm install
+     ```
 
-3.Run
- cd frontend
- npm start
+3. **Run the project**:
+   - Start the frontend:
+     ```bash
+     cd frontend
+     npm start
+     ```
+   - Start the backend:
+     ```bash
+     cd backend
+     npm start
+     ```
 
- cd backend 
- npm start
