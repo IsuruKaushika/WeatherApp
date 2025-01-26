@@ -5,7 +5,7 @@ Clone the repository:
 
 bash
 Copy
-git clone <repository_url>
+git clone (https://github.com/IsuruKaushika/WeatherApp.git)
 Navigate to the backend folder:
 
 bash
