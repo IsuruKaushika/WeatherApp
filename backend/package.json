@@ -7,7 +7,9 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
     "request": "^2.88.2",
     "weather": "^1.0.4"
   }
