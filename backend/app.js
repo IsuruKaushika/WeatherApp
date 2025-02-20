@@ -1,5 +1,6 @@
 const express=require('express');
 const weather = require('../backend/src/Weather');
+
 const cors=require('cors');
 
 
@@ -18,8 +19,6 @@ app.get('/weather',async(req,res)=>{
     }
     const data=await weather(req.query.location);
     res.send(data);//send data as the response
-
-
     })
 //callback function
 app.listen(port,()=>{
